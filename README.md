@@ -32,5 +32,4 @@
 ##### Column 5: Class
 
 ## Process
-### Using online tutorials and my own statistical reasoning, created a model to predict which class of flower
-### an example would be based on the data in the table
+### Using online tutorials and my own statistical reasoning, created a model to predict which class of flower an example would be based on the data in the table
